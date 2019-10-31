@@ -1,2 +1,2 @@
 # 08-Breakout
-Brick Breaker Game
+This is a game of brick breaker created using the program Godot. In this repository, there will be a playable brick breaker game. It will have implementation of multiple layers of colored tiles. We will have access to green, red, purple, gray, and blue colored tiles. The game will have a viable lives system, and be able to print in the terminal "Died" once the amount of lives are up. It will also be able to show score too. This was created for my MSCH-220 class.
